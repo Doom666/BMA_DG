@@ -1,0 +1,41 @@
+---
+{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/BMA S3 E0 - Beyond Rebirth/"}
+---
+
+
+## Outline:
+- What has happened in this year and a half of silence
+	- I was burnout
+		- I had too many projects
+		- I had too much stress
+		- I need a wide mindspace.
+	- I moved to Trondheim
+		- moved to appartment
+		- got job
+		- needed to move
+		- needed to change job
+		- I had problems at work
+- What's different now
+	- I finished working with the debut album of a music project I have kept secret to all of you
+	- I more or less fixed the problems at work
+	- I must do something with the crippling guilt and anxiety that not working on BMA gives me.
+- What am I aiming for with BMA
+	- I aim to publish:
+		- A Podcast episode on Mondays
+		- A video on Thor's Days
+		- A streaming on saturday night's, to warm up before hitting the metal pub
+			- to give ideas for deep drunken and high conversations
+- How will I finance it.
+	- II'll both have a Patreon channel and a merch store. Because fuck adds and trackers and schemes to make everything profitable.
+- What will I talk about?
+	- I want to share my mind and view of the world and life.
+	- I want to share my experiences and journey
+	- I want to promote mental independence, civil disobedience, and personal rebellion.
+	- I want to consolidate thoughts philosophy, psychology and spirituality, specially from the "left hand path" in a way that is congruent with the age we live in.
+	- Disclaimer:
+		- I will talk about drugs and their safety, specially psychedelics.
+		- I will talk about sensitive topics such as suicide, self-harm, death, existence, and views on the current state of the world, predominant ideologies, institutions, industries and so on, so is fair to expect that at some point I will attack something you are attached to. Remember that you are not what you attach to.
+- What do I stand for, the mission.
+	- I want to help you comprehend that within you resides all the answers, the power and resources you need to create whatever life you want to create. I want to help you navigate the complexity and toxicity of the environment we live in so save you from some absolutely unnecessary pitfalls that I've fallen myself pray over the years. I want also, to have a fucking blast and create an army of autonomous, empowered, drama-less and clear minded humans that has no fear to stand up and say "Enough is enough" to no matter what type of authority. And I want to help you comprehend how your mind works and how it creates your reality so you don't have to depend on the biased, sometimes toxic, and inefficient at best, mental health and self development industries.
+	- Disclaimer:
+		- I am a biased motherfucker and therefore I will also talk about and promote my musical projects, just because I can.
