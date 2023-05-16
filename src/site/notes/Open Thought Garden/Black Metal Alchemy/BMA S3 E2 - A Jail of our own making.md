@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/BMA S3 E2 - A Jail of our own making/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/bma-s3-e2-a-jail-of-our-own-making/","created":"","updated":""}
 ---
