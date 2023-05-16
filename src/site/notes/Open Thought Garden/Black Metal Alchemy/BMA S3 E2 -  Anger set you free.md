@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/BMA S3 E2 -  Anger set you free/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/bma-s3-e2-anger-set-you-free/","created":"","updated":""}
 ---
 
 
