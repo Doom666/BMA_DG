@@ -8,6 +8,11 @@ body {
     line-height: 1.85 !important;
     --col-base-background: #080808 !important;
     
+    .internal-link {
+        color: #bd3029 !important;
+        text-decoration: none !important;
+    }
+    
     
     h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1 {
         font-size: 2.5em !important;
