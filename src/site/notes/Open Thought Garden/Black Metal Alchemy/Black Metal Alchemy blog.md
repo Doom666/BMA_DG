@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/Black Metal Alchemy blog/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/black-metal-alchemy-blog/","created":"","updated":""}
 ---
 
 
