@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/BMA Vid - 0 - Welcome/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/bma-vid-0-welcome/","created":"","updated":""}
 ---
 
 ## Video Guide
