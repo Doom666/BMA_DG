@@ -1,17 +1,21 @@
 body {
+    .markdown-preview-view h1 {
+    font-family: 'UnifrakturMaguntia', cursive;
+    }
+
+    /***
     --h1-color: inherit;
     --h2-color: inherit;
     --h3-color: inherit;
     --h4-color: inherit;
     --h5-color: inherit;
     --h6-color: inherit;
-    --h1-font: 'UnifrakturMaguntia', cursive;
+    --h1-font: ;
     --h2-font: "Josefin Sans";
     --h3-font: "Josefin Sans";
     --h4-font: "Josefin Sans";
     --h5-font: "Josefin Sans";
     --h6-font: "Josefin Sans";
-    /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
