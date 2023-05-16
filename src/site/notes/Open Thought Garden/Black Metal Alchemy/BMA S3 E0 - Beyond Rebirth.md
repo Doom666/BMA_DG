@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/BMA S3 E0 - Beyond Rebirth/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/bma-s3-e0-beyond-rebirth/","created":"","updated":""}
 ---
 
 
