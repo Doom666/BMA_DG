@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/ActualizedOrg/Actualized video notes/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/actualized-org/actualized-video-notes/","created":"","updated":""}
 ---
 
 Actualized.org teachings are closely related to the work I do, after all, philosophy and psychology have been a great passion from mine since I know myself exist.
