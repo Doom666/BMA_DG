@@ -1,0 +1,58 @@
+---
+{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-e1-modern-alchemy/","created":"","updated":""}
+---
+
+
+- The problem:
+  When I started working on myself and learned different types of coaching and therapy methods, I saw that what I was learning would have saved my ass , would I have learned that on school.
+	- we use the first 16 years of our lives to get indoctrinated by a dysfunctional education system.
+		- At all time are told what to do - obedience
+		- One curriculum for all - it irons you out into the heard
+		- It favors memorizing over understanding - makes you accept what is
+		- It punishes questioning the status quo - your opinion is stripped off power.
+			- it gives you the sense that to succeed in life, all you got to do is obey, accept, agree, and you will be rewarded.
+		- When you are out of secondary school, you have no ide on :
+			- How to make and mantain friends and relationships.
+			- How to think by first principles, logic, critical thinking.
+			- How to understand, deal with, and improve your emotions.
+			- How to start your own business
+			- How to buy a house, make a contract, negotiate and interact with the government
+			- How to arrive to your own conclussions and think outside the box.
+			- How to be creative, uplifted.
+			- How to understand your own and the psycology of others.
+			- how to reason the bad sides of life in a constructive way.
+			- How to deal with addictions, impulses, regections, and the like.
+		- You are on your own now with a bunch of unnecessary information.
+	- All official helping industries are committed to their narrow paradigm and use authority by proxy.
+		- what is Authority by proxy.
+	- all unofficial ones are branded, paywalled, and corrupted in a way or another by marketing (to one degree or another), in other words, they are polluted by survival.
+		- few are truly wholistic.
+		- full of deception, guilt, blame and tribalism.
+	- Overall, they operate by the framework that education seems to perpetuate, obey, memorize, agree. Be a cog in our machine.
+	- But there is more, much more, you are in your adulthood and break from all that and pursue success. well, that also turns you into  a cog of the machine, because you unconsciously accepted the definition of success they gave you. and you do it through the means that lay before you, marketing, grinding...
+	- if you want to put an idea into the world, you got to make it profitable, or else nobody will invest in you...
+	- and from it all, spirituality, is either mocked, or utilized for profit or self idolatration.
+- we can adapt to the wildest envioronments, so we change ourselves, we control ourselves, we mask ourselves, we disconnect from ourselves in order to do what we are told that is the correct thing to do.
+- and then we suffer the consequences in solitude, the anxiety, the self hatred, the emotional disconection, the fear to look inwards, the fear to feel, the fear to be your self, the depresion, the suicidal thoughts, the inner beating, the addictions, the "dark side"... we are eating ourselves alive here.
+- when starting as a coach I had to present a mask, or a side of myself curated to attract clients, I seemed unable to be myself, unconditionally, black metal, stage self harm, drugs, the left hand path, dark filosofies... to much to hide 
+- Modern alchemy is my solution to this madness.
+	- You have all the tools, energy, capabilities and possibilities to create the life you want, period.
+	- all you need is the guidance and support to learn, not how to do things, but of how to figure out things of your own accord.
+	- Modern alchemy accepths the metaphysical aspects of your existence, while not creating dissonance with science.
+	- although we will borrow some concepts and metaphores from the past, Ill keep the wowo to a minimum.
+	- Alchemy was the art of transmutation something mundane into something precious
+	- you do the same
+	- Now my promess is that all you got to achieve is to be yourself, accept that and purify it from the contamination that all that indoctrination has thrown into your psyche.
+	- what will be the general process to do such purification?
+		- Solve et Coagula (disolve and precipitate)
+		- explain and examples
+	- What will be your filosofal stone? your magnum opus?
+		- Turning this life of lead, into the gold of success.
+	- What will guide us?
+		- [The all is one](https://en.wikipedia.org/wiki/Chrysopoeia)
+			- This call us to tend towards unity, growth and creation and expansion. do this with your friends, with your ideas, with your projects with your thinking.
+		- [Know thyself](https://en.wikipedia.org/wiki/Know_thyself)
+			- "know thyself" is a warning to pay no attention to the opinion of the multitude in favor to the study of your true, let's say, esssence. 
+			- this call us to develop self awareness, self acceptance, find our true call
+		- [Do what thou wilt](https://en.wikipedia.org/wiki/Thelema)
+			- once we have purified ourselves from masks and egoic games, traumas, and all other outside pollution, there is something to create here. That is your rawest, purest real will, acting on it is what am I doing now
