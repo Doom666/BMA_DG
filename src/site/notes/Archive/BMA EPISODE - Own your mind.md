@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Archive/BMA EPISODE - Own your mind/"}
+{"dg-publish":true,"permalink":"/archive/bma-episode-own-your-mind/","created":"","updated":""}
 ---
 
 [[Archive/Cognitive responsibility draft\|Cognitive responsibility draft]]
