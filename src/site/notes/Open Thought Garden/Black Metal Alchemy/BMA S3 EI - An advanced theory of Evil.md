@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/BMA S3 EI - An advanced theory of Evil/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/bma-s3-ei-an-advanced-theory-of-evil/","created":"","updated":""}
 ---
 
 
