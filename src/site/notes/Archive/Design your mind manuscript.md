@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Archive/Design your mind manuscript/"}
+{"dg-publish":true,"permalink":"/archive/design-your-mind-manuscript/","created":"","updated":""}
 ---
 
 
