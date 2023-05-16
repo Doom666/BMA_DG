@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/OWN your mind/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/own-your-mind/","created":"","updated":""}
 ---
 
 
