@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Open Thought home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/open-thought-garden/open-thought-home/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 
