@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/BMA S3 E3 - Channeling emotions/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/bma-s3-e3-channeling-emotions/","created":"","updated":""}
 ---
 
 Intro:
