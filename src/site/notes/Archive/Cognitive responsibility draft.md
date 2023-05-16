@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Archive/Cognitive responsibility draft/"}
+{"dg-publish":true,"permalink":"/archive/cognitive-responsibility-draft/","created":"","updated":""}
 ---
 
 
