@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/open-thought-garden/actualized-org/what-is-insight-how-to-become-more-insightful/","created":"","updated":""}
 ---
 
-
+## Introduction
 A Rabi enters to a hotel and tells the receptionist:
 	*I am a deeply religious person, so I need the porn in my room to be disabled.*
 The receptionist looks at the man with face of disgust:
