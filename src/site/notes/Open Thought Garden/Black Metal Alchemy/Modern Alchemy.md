@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/Black Metal Alchemy/Modern Alchemy/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/black-metal-alchemy/modern-alchemy/","created":"","updated":""}
 ---
 
 #psychology #spirituality #phylosofy 
