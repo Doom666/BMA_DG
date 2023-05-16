@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
 body {
-    .markdown-preview-view h1 {
-    font-family: 'UnifrakturMaguntia', cursive;
-    }
+    
+    h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1 {
+        
+        font-family: 'UnifrakturMaguntia', cursive !important;
+        text-shadow: #00000042 2px 2px 3px, #00000017 4px 4px 6px !important;
+        }
 
     /***
     --h1-color: inherit;
