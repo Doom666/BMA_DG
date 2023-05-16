@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Open Thought Garden/ActualizedOrg/What Is Insight - How To Become More Insightful/"}
+{"dg-publish":true,"permalink":"/open-thought-garden/actualized-org/what-is-insight-how-to-become-more-insightful/","created":"","updated":""}
 ---
 
 
