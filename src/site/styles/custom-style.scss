@@ -12,7 +12,10 @@ body {
         color: #bd3029 !important;
         text-decoration: none !important;
     }
-    
+    .markdown-rendered ul {
+        line-height: 1.5;
+        
+    }
     
     h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1 {
         font-size: 2.5em !important;
