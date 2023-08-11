@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/black-metal-alchemy/the-ego-operates-in-the-shadows/","tags":["Thought","Egology","Theory"],"created":"","updated":""}
 ---
 
-[[The EGO\|The EGO]] operates outside the awerness of the person. The coping mechanisms, meaning making, narrative creation, judgements and every other work from it is created "subconsciously" or, disconnected from the conscious intellect.
+[[Black Metal Alchemy/The EGO\|The EGO]] operates outside the awerness of the person. The coping mechanisms, meaning making, narrative creation, judgements and every other work from it is created "subconsciously" or, disconnected from the conscious intellect.
 Therefore, we cannot percieve our egoic mechanics unless a great deal of awareness and effort is used.
 I believe this notion to be important because in a sense, seems counterintuitive, after all, does not the ego driven person is seeking constant attention? 
 The thing is that in that sense, in reality, the ego is what creates the attention seeking coping mechanism in order to get praise and affirm its value and therefore survival, but uses the person as a marionette, the ego is not at display but is moving the strings of the body. That is when you put attention to it, the person will grossly deny it, ignore it, or simply not acknowledge his own attention seeking behaviour.
