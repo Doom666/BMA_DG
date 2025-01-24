@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/modern-alchemy/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/modern-alchemy/"}
 ---
 
 #psychology #spirituality #phylosofy 
