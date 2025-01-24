@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/the-ego/","tags":["Concept"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/the-ego/","tags":["Concept"]}
 ---
 
 I believe that the ego could be studied as a metaphisical structure. Egology is the study of the ego, how does it work, how can it be measured, healed and rehabilitated. 
