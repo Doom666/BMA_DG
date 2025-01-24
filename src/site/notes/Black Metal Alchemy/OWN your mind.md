@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/own-your-mind/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/own-your-mind/"}
 ---
 
 
