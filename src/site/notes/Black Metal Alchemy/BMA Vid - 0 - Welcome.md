@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-vid-0-welcome/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-vid-0-welcome/"}
 ---
 
 ## Video Guide
