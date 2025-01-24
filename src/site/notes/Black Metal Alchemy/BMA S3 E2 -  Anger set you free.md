@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-e2-anger-set-you-free/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-e2-anger-set-you-free/"}
 ---
 
 
