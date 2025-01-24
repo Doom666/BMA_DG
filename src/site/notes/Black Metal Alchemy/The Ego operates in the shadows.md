@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/the-ego-operates-in-the-shadows/","tags":["Thought","Egology","Theory"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/the-ego-operates-in-the-shadows/","tags":["Thought","Egology","Theory"]}
 ---
 
 [[Black Metal Alchemy/The EGO\|The EGO]] operates outside the awerness of the person. The coping mechanisms, meaning making, narrative creation, judgements and every other work from it is created "subconsciously" or, disconnected from the conscious intellect.
