@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy-home/","tags":["gardenEntry"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy-home/","tags":["gardenEntry"]}
 ---
 
 
