@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-e0-beyond-rebirth/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-e0-beyond-rebirth/"}
 ---
 
 
