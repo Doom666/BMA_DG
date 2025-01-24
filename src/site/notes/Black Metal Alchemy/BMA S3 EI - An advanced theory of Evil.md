@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-ei-an-advanced-theory-of-evil/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-ei-an-advanced-theory-of-evil/"}
 ---
 
 
