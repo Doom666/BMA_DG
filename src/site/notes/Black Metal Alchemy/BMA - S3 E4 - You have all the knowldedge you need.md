@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-e4-you-have-all-the-knowldedge-you-need/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/bma-s3-e4-you-have-all-the-knowldedge-you-need/"}
 ---
 
 
