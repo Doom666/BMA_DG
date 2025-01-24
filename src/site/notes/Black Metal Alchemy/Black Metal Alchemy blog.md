@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/black-metal-alchemy/black-metal-alchemy-blog/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/black-metal-alchemy/black-metal-alchemy-blog/"}
 ---
 
 
